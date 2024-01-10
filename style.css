@@ -1,0 +1,49 @@
+#button1 {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    height: 70px;
+    text-align: center;
+
+}
+
+#button2 {
+    background-color: #6fcf97;
+    border-radius: 10px;
+    height: 70px;
+    text-align: center;
+}
+
+#button3 {
+    background-color: #56ccf2;
+    border-radius: 10px;
+    height: 70px;
+    text-align: center;
+}
+
+#button4 {
+    background-color: #bb6bd9;
+    border-radius: 10px;
+    height: 70px;
+    text-align: center;
+}
+
+.back {
+    background-color: #222222;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.coloroff {
+    color: #49a6e9;
+}
+
+
+#colorPickerContainer {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
